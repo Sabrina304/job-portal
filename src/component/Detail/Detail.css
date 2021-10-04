@@ -1,0 +1,30 @@
+
+.add-cart{
+    background-color: black;
+    color: white;
+    width: 150px;
+    height: 30px;
+    border: 2px solid lightgreen;
+}
+.column {
+    float: left;
+  
+  }
+ 
+  .card {
+      background-color: violet;
+      margin: 2px;
+      height: 400px;
+      width: 300px;
+      color: black;
+   
+      border: grey;
+      border-radius: 13px;
+    padding: 10px;
+    text-align: center;
+   
+  }
+  .circle{
+    background-color: coral;
+    border-radius: 20px;
+  }

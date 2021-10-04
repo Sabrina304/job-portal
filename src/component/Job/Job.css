@@ -1,0 +1,12 @@
+.dreamjob-container{
+    margin-top: 10px;
+display: grid;
+grid-template-columns: 3fr 1fr;
+margin-left: 10px;
+}
+.cart-container{
+    border-right: 1ps lightblue;
+    margin-right: 5px;
+  
+}
+
